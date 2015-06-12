@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = ven 12 jun 2015 18:14:37 CEST
+
+BeginCmp
+TimeStamp = /557AF335;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF536;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF48C;
+Reference = C3;
+ValeurCmp = 22uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF543;
+Reference = C4;
+ValeurCmp = 22uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AD270;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF6D6;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557B0503;
+Reference = C7;
+ValeurCmp = 10pF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557B0509;
+Reference = C8;
+ValeurCmp = 10pF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AD1B1;
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = RJ45_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AD1C0;
+Reference = J2;
+ValeurCmp = RJ45;
+IdModule  = RJ45_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AFE58;
+Reference = LOGO1;
+ValeurCmp = OPEN_HARDWARE_1;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /557B001B;
+Reference = P1;
+ValeurCmp = CONN_01X10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /557B000C;
+Reference = P2;
+ValeurCmp = CONN_01X10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AFA0F;
+Reference = P15;
+ValeurCmp = CONN_01X04;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AFE67;
+Reference = P16;
+ValeurCmp = CONN_01X01;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AFE74;
+Reference = P17;
+ValeurCmp = CONN_01X01;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AFE7A;
+Reference = P18;
+ValeurCmp = CONN_01X01;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AFE80;
+Reference = P19;
+ValeurCmp = CONN_01X01;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF061;
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF595;
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AD50E;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF06E;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF513;
+Reference = U1;
+ValeurCmp = AZ1117C-3.3;
+IdModule  = SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF54D;
+Reference = U2;
+ValeurCmp = AZ1117C-5.0;
+IdModule  = SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AD193;
+Reference = U3;
+ValeurCmp = MSP430G2553IPW20;
+IdModule  = DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /557AF04E;
+Reference = U4;
+ValeurCmp = MAX481;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /557B04F0;
+Reference = Y1;
+ValeurCmp = CRYSTAL;
+IdModule  = SIL-2;
+EndCmp
+
+EndListe
